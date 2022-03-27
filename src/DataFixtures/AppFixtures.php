@@ -42,7 +42,7 @@ class AppFixtures extends Fixture
         $manager->persist($xava);
 
         $kine = new Kine();
-        $kine->setNom("Wiiz");
+        $kine->setNom("Wiiiz");
         $kine->setPrenom("Marin");
         $kine->setAdresse("Wiiz");
         $kine->setEmail("marin@wiiz.fr");
